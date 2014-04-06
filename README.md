@@ -6,7 +6,7 @@ This is a simple productivity tool which could help you focus on your work.
 
 ## Usage
 
-Firstly, download the [workflow file](http://github.com/bxshi/alfred2-workflow-hosts/Web Blocker) 
+Firstly, download the [workflow file](https://github.com/bxshi/alfred2-workflow-hosts/blob/master/Web%20Blocker.alfredworkflow) 
 
 Then, double click on it to install it into your Alfred2.
 
